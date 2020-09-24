@@ -1,2 +1,2 @@
 1
-This is fucking boring!!!!
+This is MY frist Git REPO!
